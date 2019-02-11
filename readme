@@ -1,0 +1,11 @@
+**** THE COLOR PICKING GAME ****
+
+**Description:
+    In this game the user will see an RGB code displayed in the top part of the page. He/she must click the color that matches that
+    code in order to win. After selecting the correct color a message will be displayed.
+    
+**Usage:
+    
+    RESET: Resets the game to its original state;
+    EASY: Displays only 3 colors from which the user will have to choose;
+    HARD: Displays 6 colors from which the user will have to choose;
